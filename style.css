@@ -1,0 +1,16 @@
+body{
+     
+    cursor: url(cig.gif), auto;
+    background-color: purple;
+
+  }
+  h1{
+      text-align:center;
+    color: yellow;
+    background-color:palegreen;
+    
+    
+  }
+  p {
+    font-family: Impact, Charcoal, sans-serif;
+  }
