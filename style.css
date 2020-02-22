@@ -1,12 +1,13 @@
 body{
      
-    cursor: url(cig.gif), auto;
-    background-color: light green;
+  cursor: url(cig.gif), auto;
+    background-color:  rgb(130, 202, 35);
 
   }
   h1{
       text-align:center;
-    color:neon yellow;
+    color: yellow;
+    
     
     
     
